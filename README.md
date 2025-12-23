@@ -1,83 +1,95 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar Gupta</h1>
-<h3 align="center">A passionate Full Stack Developer & Aspiring Data Analyst from India</h3>
+<h3 align="center">
+Aspiring Data Analyst | Full Stack Developer | Turning Data into Insights
+</h3>
 
 ---
 
-### 🚀 About Me
+### 📌 Professional Summary
 
-- 🔭 I’m currently working on **E-commerce Website Projects**
-- 🌱 I’m currently learning **Java, Python, Node.js, MongoDB & Data Analytics**
-- 💬 Ask me about **HTML, CSS, JavaScript (Basic), Java, C, Python**
-- 📊 Exploring **Data Analytics, Business Insights & Visualization**
-- 📫 How to reach me: **amangupta05002@gmail.com**
+I am a **Data Analytics enthusiast** with a strong foundation in **Python, SQL, Data Visualization, and Business Insights**, complemented by hands-on experience in **Full Stack Web Development**.  
+I enjoy transforming raw data into meaningful insights that support data-driven decision-making.
 
 ---
 
-<h3 align="left">🔗 Connect with me:</h3>
+### 🚀 What I’m Currently Doing
+
+- 🔭 Working on **Data Analytics & E-commerce Projects**
+- 🌱 Learning **Advanced Python, Data Analytics, Power BI, SQL Optimization**
+- 📊 Practicing **Exploratory Data Analysis (EDA) & Dashboard Building**
+- 💬 Ask me about **Python, SQL, Data Analysis, HTML, CSS, JavaScript**
+- 📫 Reach me at **amangupta05002@gmail.com**
+
+---
+
+<h3 align="left">🔗 Connect with Me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aman-gupta-9446bb236" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 <a href="https://instagram.com/amangupta05002" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
 </p>
 
 ---
 
-<h3 align="left">💻 Languages & Development Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
-</p>
+<h3 align="left">📊 Data Analytics Skills</h3>
 
----
-
-<h3 align="left">🌐 Backend & Frameworks:</h3>
-<p align="left">
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
-<a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></a>
-<a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></a>
-<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></a>
-</p>
-
----
-
-<h3 align="left">🗄️ Databases:</h3>
-<p align="left">
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
-</p>
-
----
-
-<h3 align="left">📊 Data Analytics Skills & Tools:</h3>
-
-<p align="left">
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>
-<a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/></a>
-<a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40"/></a>
-<a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/></a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40"/></a>
-</p>
-
----
-
-### 📈 What I Do
 - Data Cleaning & Preprocessing  
 - Exploratory Data Analysis (EDA)  
-- Dashboard Creation & Visualization  
-- SQL Queries & Insights  
-- Full-Stack Web Development  
+- SQL Queries & Joins  
+- Dashboard & Report Creation  
+- Business Insights & Trend Analysis  
 
 ---
 
-⭐ **If you like my work, feel free to star my repositories and connect with me!**
+<h3 align="left">🛠️ Data Analytics Tools & Technologies</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40"/>
+</p>
+
+---
+
+<h3 align="left">💻 Full Stack Development (Secondary Skill)</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+</p>
+
+---
+
+<h3 align="left">📈 GitHub Stats</h3>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=amangupta05002&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amangupta05002&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amangupta05002&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🎯 Career Objective
+To secure an entry-level **Data Analyst / Business Analyst** role where I can apply analytical thinking, data visualization, and problem-solving skills to deliver actionable business insights.
+
+---
+
+⭐ **If you find my projects useful, consider starring my repositories and connecting with me.**
