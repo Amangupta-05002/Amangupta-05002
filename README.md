@@ -69,21 +69,6 @@ I enjoy transforming raw data into meaningful insights that support data-driven 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
 </p>
 
----
-
-<h3 align="left">📈 GitHub Stats</h3>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amangupta05002&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amangupta05002&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amangupta05002&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
