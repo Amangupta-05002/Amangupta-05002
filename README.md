@@ -1,50 +1,38 @@
-<h1 align="center">Hi 👋, I'm Aman Kumar Gupta</h1>
+<h1 align="center">Aman Kumar Gupta</h1>
 <h3 align="center">
-Aspiring Data Analyst | Full Stack Developer | Turning Data into Insights
+Data Analyst | Python • SQL • Power BI | Turning Data into Business Insights
 </h3>
 
 ---
 
-### 📌 Professional Summary
+### 👋 About Me
 
-I am a **Data Analytics enthusiast** with a strong foundation in **Python, SQL, Data Visualization, and Business Insights**, complemented by hands-on experience in **Full Stack Web Development**.  
-I enjoy transforming raw data into meaningful insights that support data-driven decision-making.
-
----
-
-### 🚀 What I’m Currently Doing
-
-- 🔭 Working on **Data Analytics & E-commerce Projects**
-- 🌱 Learning **Advanced Python, Data Analytics, Power BI, SQL Optimization**
-- 📊 Practicing **Exploratory Data Analysis (EDA) & Dashboard Building**
-- 💬 Ask me about **Python, SQL, Data Analysis, HTML, CSS, JavaScript**
-- 📫 Reach me at **amangupta05002@gmail.com**
+I am an **aspiring Data Analyst** with hands-on experience in **data cleaning, exploratory data analysis, SQL querying, and dashboard development**.  
+I enjoy translating complex datasets into **clear, actionable insights** that support informed business decisions.  
+Alongside analytics, I also bring a foundation in **Full Stack Web Development**, enabling me to understand data from both technical and business perspectives.
 
 ---
 
-<h3 align="left">🔗 Connect with Me</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aman-gupta-9446bb236" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/amangupta05002" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-</p>
+### 🔍 What I’m Currently Focused On
+
+- 📊 Data Analysis using **Python (Pandas, NumPy)**
+- 📈 Dashboard creation with **Power BI & Excel**
+- 🧠 Strengthening **SQL for analytics & reporting**
+- 🌐 Applying analytics to **real-world business & e-commerce data**
 
 ---
 
-<h3 align="left">📊 Data Analytics Skills</h3>
+### 🧠 Core Data Analytics Skills
 
 - Data Cleaning & Preprocessing  
 - Exploratory Data Analysis (EDA)  
-- SQL Queries & Joins  
-- Dashboard & Report Creation  
-- Business Insights & Trend Analysis  
+- SQL Queries, Joins & Aggregations  
+- Data Visualization & Dashboards  
+- Business & Performance Analysis  
 
 ---
 
-<h3 align="left">🛠️ Data Analytics Tools & Technologies</h3>
+<h3 align="left">🛠️ Analytics Tools & Technologies</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
@@ -58,7 +46,7 @@ I enjoy transforming raw data into meaningful insights that support data-driven 
 
 ---
 
-<h3 align="left">💻 Full Stack Development (Secondary Skill)</h3>
+<h3 align="left">💻 Development Skills (Supporting)</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
@@ -69,12 +57,42 @@ I enjoy transforming raw data into meaningful insights that support data-driven 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
 </p>
 
+---
+
+<h3 align="center">📈 GitHub Activity</h3>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=amangupta05002&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amangupta05002&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amangupta05002&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<h3 align="left">🔗 Connect With Me</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aman-gupta-9446bb236" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" />
+</a>
+<a href="https://instagram.com/amangupta05002" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35" />
+</a>
+</p>
 
 ---
 
 ### 🎯 Career Objective
-To secure an entry-level **Data Analyst / Business Analyst** role where I can apply analytical thinking, data visualization, and problem-solving skills to deliver actionable business insights.
+
+To begin my professional journey as a **Data Analyst / Business Analyst**, where I can leverage analytical skills, data visualization, and problem-solving abilities to create measurable business value.
 
 ---
 
-⭐ **If you find my projects useful, consider starring my repositories and connecting with me.**
+📫 **Email:** amangupta05002@gmail.com  
+
+⭐ *If you find my work valuable, feel free to star my repositories or connect with me.*
