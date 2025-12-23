@@ -59,21 +59,6 @@ Alongside analytics, I also bring a foundation in **Full Stack Web Development**
 
 ---
 
-<h3 align="center">📈 GitHub Activity</h3>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amangupta05002&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amangupta05002&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amangupta05002&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 <h3 align="left">🔗 Connect With Me</h3>
 <p align="left">
