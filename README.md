@@ -1,15 +1,17 @@
 <h1 align="center">Aman Kumar Gupta</h1>
 <h3 align="center">
-Data Analyst | Python • SQL • Power BI | Turning Data into Business Insights
+Data Analyst | Web Developer | Python • SQL • Power BI | Data-Driven & Application-Focused Solutions
 </h3>
 
 ---
 
 ### 👋 About Me
 
-I am an **aspiring Data Analyst** with hands-on experience in **data cleaning, exploratory data analysis, SQL querying, and dashboard development**.  
-I enjoy translating complex datasets into **clear, actionable insights** that support informed business decisions.  
-Alongside analytics, I also bring a foundation in **Full Stack Web Development**, enabling me to understand data from both technical and business perspectives.
+I am an **aspiring Data Analyst and Web Developer** with hands-on experience in **data cleaning, exploratory data analysis (EDA), SQL querying, dashboard development, and full-stack web applications**.
+
+I enjoy transforming complex datasets into **actionable business insights** and building **data-driven web applications** that bridge analytics with real-world usage.
+
+My foundation in **Full Stack Web Development** allows me to understand data from both **technical and business perspectives**, enabling end-to-end solution development.
 
 ---
 
@@ -17,8 +19,9 @@ Alongside analytics, I also bring a foundation in **Full Stack Web Development**
 
 - 📊 Data Analysis using **Python (Pandas, NumPy)**
 - 📈 Dashboard creation with **Power BI & Excel**
-- 🧠 Strengthening **SQL for analytics & reporting**
-- 🌐 Applying analytics to **real-world business & e-commerce data**
+- 🧠 Advanced **SQL for analytics & reporting**
+- 🌐 Building **data-driven web applications**
+- 🛠️ Managing and deploying projects on **GitHub**
 
 ---
 
@@ -46,7 +49,7 @@ Alongside analytics, I also bring a foundation in **Full Stack Web Development**
 
 ---
 
-<h3 align="left">💻 Development Skills (Supporting)</h3>
+<h3 align="left">💻 Web Development Skills</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
@@ -59,14 +62,32 @@ Alongside analytics, I also bring a foundation in **Full Stack Web Development**
 
 ---
 
+### 🚀 Applications & Projects
+
+#### 📊 Data Analytics Projects
+- Sales and business performance analysis dashboards  
+- Data cleaning, EDA, and KPI reporting using **Python & SQL**  
+- Interactive visualizations using **Power BI & Excel**
+
+#### 🌐 Web Applications
+- Full-stack **e-commerce web application** with authentication and dynamic cart functionality  
+- Responsive **portfolio and business websites** using HTML, CSS, JavaScript  
+- Backend APIs using **Node.js & Express**
+
+🔗 **Explore all projects on GitHub:**  
+👉 https://github.com/Amangupta-05002
+
+
+
+---
 
 <h3 align="left">🔗 Connect With Me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aman-gupta-9446bb236" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
 </a>
 <a href="https://instagram.com/amangupta05002" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35"/>
 </a>
 </p>
 
@@ -74,7 +95,7 @@ Alongside analytics, I also bring a foundation in **Full Stack Web Development**
 
 ### 🎯 Career Objective
 
-To begin my professional journey as a **Data Analyst / Business Analyst**, where I can leverage analytical skills, data visualization, and problem-solving abilities to create measurable business value.
+To begin my professional journey as a **Data Analyst or Junior Web Developer**, where I can apply analytical thinking, data visualization, and application development skills to solve real-world business problems and deliver measurable value.
 
 ---
 
